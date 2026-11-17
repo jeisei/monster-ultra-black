@@ -1,0 +1,12 @@
+node_modules/
+dist/
+assets/
+design/
+tools/
+scripts/
+public/
+.playwright-mcp/
+docs/HANDOFF.md
+docs/PROJECT.md
+AGENTS.md
+package-lock.json

@@ -1,0 +1,25 @@
+node_modules/
+dist/
+.vite/
+.netlify/
+.env
+.env.*
+!.env.example
+test-results/
+playwright-report/
+*.log
+.DS_Store
+Thumbs.db
+
+# Local design sources and project history
+assets/
+design/
+tools/
+scripts/
+.playwright-mcp/
+AGENTS.md
+docs/HANDOFF.md
+docs/PROJECT.md
+
+tmp-*.png
+tmp-*.json
